@@ -52,9 +52,9 @@ Created by @Dj_Botz...</b>
     
     ABOUT_TEXT = """<b>➥ 📃Name</b> : <b>Pro Auto Filter Bot</b>
 
-<b>>➥👨‍💼Master</b> : <b><a href="https://t.me/Shanimone ">👤Albert Einstein</a></b>
+<b>>➥👨‍💼Master</b> : <b><a href="https://t.me/Shanimone ">👤 Shanif</a></b>
 
-<b>➥ 👨‍💻Created & edited by</b> : <b><a href="https://t.me/Dj_Botz">👤DJ</a></b>
+<b>➥ 👨‍💻Created & edited by</b> : <b><a href="https://t.me/Dj_Botz">👤 DJ</a></b>
 
 <b>➥ 🗣️Language</b> : <b>Python3<b>
 
