@@ -4,15 +4,16 @@
 
 class Translation(object):
     
-    START_TEXT = """<b>🙋‍♂️Hey {}!!</b>
+    START_TEXT = """<b>🙋‍♂️Hey {} How are you !!</b>
 
-<b>I am a Pro AutoFilterBot V2....😜</b>
+<b>I am a Pro AutoFilterBot V5....😜</b>
 
-<b>Make me an admin for your group and channel then connect me....🎉</b>
+<b>you can't add me to your group. This bot works only in @vellit....🎉</b>
 
-<b>🙂Watch the video below to build an Pro Autofilter bot V2 like me...</b>
+<b>🙂 Master of this bot @Shanimone 
+Created by @Dj_Botz...</b>
 
-<b>Subscribe to the update channel to learn about my updates and activity...</b>
+<b>In association with @MOVIEZ_CORNER_GROUP_BY_MC_TEAM...</b>
 
 <b>Press /help to know about available commands🤪</b>"""    
     
@@ -46,18 +47,18 @@ class Translation(object):
             
             -> <code>Status</code> - <b>Button Will Shows The Stats Of Your Channel</b>
             
-<b><a href="https://t.me/Mo_Tech_YT">© Mo Tech YT</a></b>
+<b><a href="https://t.me/Dj_Botz">© DJ</a></b>
 """
     
     ABOUT_TEXT = """<b>➥ 📃Name</b> : <b>Pro Auto Filter Bot</b>
 
-<b>>➥👨‍💼Master</b> : <b><a href="https://t.me/AlbertEinstein_TG">👤Albert Einstein</a></b>
+<b>>➥👨‍💼Master</b> : <b><a href="https://t.me/Shanimone ">👤Albert Einstein</a></b>
 
-<b>➥ 👨‍💻Editor</b> : <b><a href="https://t.me/MRk_YT">👤Mrk YT</a></b>
+<b>➥ 👨‍💻Created & edited by</b> : <b><a href="https://t.me/Dj_Botz">👤DJ</a></b>
 
 <b>➥ 🗣️Language</b> : <b>Python3<b>
 
 <b>➥ 📚Library</b> : <b><a href="https://docs.pyrogram.org">Pyrogram Asyncio 1.13.0 </a></b>
 
-<b>➥ 📖Source Code</b> : <b><a href="https://github.com/MoTechYT/Pro-Auto-Filter-Bot-V2">💥Click Me</a></b>
+<b>➥ 📖Source Code</b> : <b><a href="https://t.me/moviez_CorneR_updates_channel/103">💥Click Me</a></b>
 """
